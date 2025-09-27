@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Angela Yu",
+    "specialization": "Full Stack Development, Web3, Python",
+    "channelName": "Dr. Angela Yu",
+    "youtubeLink": "https://www.youtube.com/@LondonAppBrewery",
+    "coverImage": "https://i.ytimg.com/vi/Q33KBiDriJY/maxresdefault.jpg",
+    "featuredVideo": "https://www.youtube.com/watch?v=Q33KBiDriJY"
+  },
+  {
+    "id": 2,
+    "name": "Traversy Media",
+    "specialization": "Web Development, JavaScript, MERN Stack",
+    "channelName": "Traversy Media",
+    "youtubeLink": "https://www.youtube.com/@TraversyMedia",
+    "coverImage": "https://i.ytimg.com/vi/7CqJlxBYj-M/maxresdefault.jpg",
+    "featuredVideo": "https://www.youtube.com/watch?v=7CqJlxBYj-M"
+  },
+  {
+    "id": 3,
+    "name": "Programming with Mosh",
+    "specialization": "JavaScript, React, Node.js, Clean Code",
+    "channelName": "Programming with Mosh",
+    "youtubeLink": "https://www.youtube.com/@programmingwithmosh",
+    "coverImage": "https://i.ytimg.com/vi/Ke90Tje7VS0/maxresdefault.jpg",
+    "featuredVideo": "https://www.youtube.com/watch?v=Ke90Tje7VS0"
+  },
+  {
+    "id": 4,
+    "name": "freeCodeCamp.org",
+    "specialization": "Full Courses, Python, Machine Learning, MERN",
+    "channelName": "freeCodeCamp.org",
+    "youtubeLink": "https://www.youtube.com/@freecodecamp",
+    "coverImage": "https://i.ytimg.com/vi/Oe421EPjeBE/maxresdefault.jpg",
+    "featuredVideo": "https://www.youtube.com/watch?v=Oe421EPjeBE"
+  },
+  {
+    "id": 5,
+    "name": "Tech With Tim",
+    "specialization": "Python, AI, Machine Learning, Flask",
+    "channelName": "Tech With Tim",
+    "youtubeLink": "https://www.youtube.com/@TechWithTim",
+    "coverImage": "https://i.ytimg.com/vi/vzGllw18DkA/maxresdefault.jpg",
+    "featuredVideo": "https://www.youtube.com/watch?v=vzGllw18DkA"
+  },
+  {
+    "id": 6,
+    "name": "Codehelp - Love Babbar",
+    "specialization": "DBMS Tutorial",
+    "channelName": "Codehelp - Love Babbar",
+    "youtubeLink": "https://www.youtube.com/@Codehelp",
+    "coverImage": "https://i.ytimg.com/vi/dl00fOOYLOM/maxresdefault.jpg",
+    "featuredVideo": "https://www.youtube.com/watch?v=dl00fOOYLOM"
+  }
+
+]
