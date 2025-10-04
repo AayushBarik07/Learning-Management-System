@@ -33,6 +33,3 @@ This platform enables **students** to enroll in courses, track their learning pr
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB (Mongoose ODM)  
 **Authentication:** JWT, bcrypt  
-**Version Control:** Git & GitHub  
-git clone https://github.com/<your-username>/learning-management-system.git
-cd learning-management-system
